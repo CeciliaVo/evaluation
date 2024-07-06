@@ -1,0 +1,11 @@
+MARKING CRITERIA: 
+
+Correctness and Efficiency (80%) - Program compiles without any errors or warnings.  
+- Program follows requirements and produces correct results for all inputs tested. 
+- Performs the required tasks efficiently and user-friendly. 
+- Note that the program does not need to apply complex mathematic formula to be efficient.
+- If the program does not follow requirements, fails to compile, run, or crashes - you may lose up to 100% of the grade (although some marks may be given for the effort).  
+Code Style (20%) Check all the requirements below: 
+
+- Nice code format (code lines are properly aligned and indented size of 4 spaces, consistent layout of { and }, blank line between two code sections, space between operators, etc.) 
+- Descriptive comment for each code section - Descriptive file/function/constant/variable names that follow standard naming convention

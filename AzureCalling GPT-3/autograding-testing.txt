@@ -1,0 +1,13 @@
+autograding-testing
++ Open API Key 1 = 2228139d2c554a87b62af967c5b847fd
++ Open API Key 2 = 32b57cbef43f48ba8080048adc2c3f98
+Location/Region: australiaeast
+Endpoint: https://autograding-testing.openai.azure.com/
+
+llm = AzureChatOpenAI(
+    deployment_name=AzureCodeGrader,
+    model_name=gpt-35-turbo,
+    temperature=0.2,
+    api_version="0613",
+    azure_endpoint="https://autograding-testing.openai.azure.com/openai"
+)

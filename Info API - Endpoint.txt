@@ -1,0 +1,4 @@
+autograding-testing
++ Open API Key 1 = 43a6c04255634b67803c38900d403bc0
+Location/Region: australiaeast
+Endpoint: https://autograding-testing.openai.azure.com/

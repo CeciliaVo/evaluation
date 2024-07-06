@@ -1,0 +1,1 @@
+ Question 1 (8 pts) Prompt the user to enter three float numbers, check if among them, a number is the sum of other two numbers or not, and print out a YES/NO message as below: Sample Run: Enter three float numbers: 13.5 40.7 27.2 A number is the sum of the others: YES  

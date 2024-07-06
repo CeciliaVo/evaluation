@@ -1,0 +1,83 @@
+This is the AI-generated evaluation for 1YLHi86m_q1.txt: 
+Question 1 (8 pts):
+
+The student's code appears to be written in C programming language. 
+
+Feedback:
+- The code follows the requirements and produces the correct results for all inputs tested.
+- The program is efficient and user-friendly.
+- The code style is generally good, with properly aligned and indented code lines, consistent layout of { and }, and blank lines between code sections.
+- However, there are no descriptive comments for each code section, which could make the code more understandable and maintainable.
+- The variable names (num1, num2, num3) are not very descriptive and do not follow the standard naming convention.
+
+Score: 8/8
+
+Note: The score is based on the provided marking criteria, but it is recommended to review the code thoroughly to ensure accuracy.
+This is the AI-generated evaluation for 2rn3udUT_q1.txt: 
+Question 1 (8 pts):
+
+The student's code is written in C programming language. 
+
+Feedback:
+- The code follows the requirements and produces the correct results for all inputs tested.
+- The program is efficient and user-friendly.
+- The code style is generally good, with properly aligned and indented code lines, consistent layout of { and }, and blank lines between code sections.
+- However, there are no descriptive comments for each code section. It would be helpful to add comments to explain the purpose and functionality of each section of the code.
+- The variable names "num1", "num2", and "num3" are descriptive and follow the standard naming convention.
+
+Score: 8/8
+
+Note: The score is based on the provided marking criteria, but it is recommended to review the code thoroughly to ensure accuracy and completeness of the evaluation.
+This is the AI-generated evaluation for 4KVzvVzB_q1.txt: 
+Question 1 (8 pts):
+
+The student's code appears to be written in C programming language. 
+
+Feedback:
+- The code follows the requirements and produces the correct results for all inputs tested.
+- The program efficiently checks if any one float is the sum of the other two floats.
+- The code style is generally good, with properly aligned and indented code lines, consistent layout of { and }, and descriptive comments for each code section.
+- However, it would be beneficial to include comments explaining the purpose of the variables (a, b, c) and the logic behind the if statement.
+
+Score: 8/8
+
+Note: The provided marking criteria were used to standardize the mark, but the final score is based on the evaluation of the code itself.
+This is the AI-generated evaluation for geZBr7R2_q1.txt: 
+Question 1 (8 pts):
+
+The student's code appears to be written in C programming language. 
+
+Feedback:
+- The code follows the requirements and produces the correct results for all inputs tested.
+- The program is efficient and user-friendly.
+- The code style is generally good, with properly aligned and indented code lines, consistent layout of { and }, and blank lines between code sections.
+- However, there are no descriptive comments for each code section. It would be helpful to add comments to explain the purpose and functionality of different parts of the code.
+- The variable names (num1, num2, num3) are not very descriptive. It would be better to use more meaningful names that follow standard naming conventions.
+
+Score: 7/8
+
+Note: The score is based on the provided marking criteria, but it is recommended to review the code thoroughly to ensure accuracy.
+This is the AI-generated evaluation for Oz4zVZJf_q1.txt: 
+Question 1 (8 pts):
+
+The student's code appears to be written in C programming language. 
+
+Feedback:
+- The code follows the requirements and produces the correct results for all inputs tested.
+- The program efficiently performs the required tasks.
+- The code style is generally good, with properly aligned and indented code lines, consistent layout of { and }, and blank lines between code sections.
+- However, there are no descriptive comments for each code section, which would improve code readability and understanding.
+- The variable names (num1, num2, num3) are not very descriptive and could be improved to follow standard naming conventions.
+
+Score: 8/8
+
+Note: The recommended mark is based on the provided marking criteria and does not take into account any additional factors.
+
+
+
+I want you to act as an AI evaluating on students' coding work. I will provide you a text file of the coding question with points of the question in brackets 
+(example: Question 1 (8pts)) and a text file of the standard marking criteria that you will need to follow to give recommended marks. 
+I will provide you a folder contains coding works in text format and your task is to use artificial intelligence tools, such as natural language processing, to detect the programming language, 
+give tailored feedback on how they can improve and write it in the Feedback section, only give 1 total recommended marks of the question point in the Score section, separated by a break line. 
+Only use the marking criteria for standardizing the mark, do not give mark completely based on the provided marking criteria. 
+Here are the marking criteria, test question and the students' work in text: 
