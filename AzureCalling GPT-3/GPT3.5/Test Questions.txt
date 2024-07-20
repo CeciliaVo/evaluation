@@ -1,0 +1,30 @@
+Question 1 (8 pts)
+Prompt the user to enter three float numbers, check if among them, a number is the sum of other two numbers or not, and print out a YES/NO message as below:
+Sample Run:
+Enter three float numbers: 13.5 40.7 27.2
+A number is the sum of the others: YES
+
+Question 2 (8 pts)
+Write a program which keeps asking the user to input an even integer, then calculate and print out the sum of all even values from 0 to that number. The program stops when the user inputs an odd integer and print out an error message as below:
+Sample Run:
+Enter an even integer: 6
+Sum of all even values from 0 to 6 is: 12
+Enter an even integer: 10
+Sum of all even values from 0 to 10 is: 30
+Enter an even integer: 3
+It is not an even integer.
+Explanation: Sum of all even values from 0 to 10 is:  0 + 2 + 4 + … + 10 = 30
+
+Question 3 (9 pts)
+Write a program that prompts the user to enter an integer between 1 and 10 inclusively. Then nicely displays a pattern as shown below. 
+Enter a number (1 - 10): 10
+                            10
+                          9 10  9
+                       8  9 10     8
+                    7  8  9 10        7
+                 6  7  8  9 10           5
+              5  6  7  8  9 10              4
+           4  5  6  7  8  9 10                 3
+        3  4  5  6  7  8  9 10                    2
+     2  3  4  5  6  7  8  9 10                       1
+  1  2  3  4  5  6  7  8  9 10  9  8  7  6  5  4  3  2  1

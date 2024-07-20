@@ -9,6 +9,7 @@
     Created  date: JdtgbsuWhNNg
     References: g6uSn07TTrtx
 */
+
 #include <stdio.h>
 
 int main() {
